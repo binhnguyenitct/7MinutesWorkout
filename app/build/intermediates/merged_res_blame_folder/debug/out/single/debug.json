@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_triceps_dip_on_chair.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_triceps_dip_on_chair.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_push_up.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_push_up.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_color_accent_border_ripple_background.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\item_color_accent_border_ripple_background.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_circular_color_accent_border.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\item_circular_color_accent_border.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\raw_press_start.mp3.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\raw\\press_start.mp3"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_gray.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\circular_progress_gray.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_side_plank.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_side_plank.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_circular_color_accent_background.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\item_circular_color_accent_background.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_high_knees_running_in_place.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_high_knees_running_in_place.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_push_up_and_rotation.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_push_up_and_rotation.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_main_page.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\img_main_page.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exercise.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wall_sit.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_wall_sit.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_bar.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lunge.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_lunge.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_jumping_jacks.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_jumping_jacks.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_squat.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_squat.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_abdominal_crunch.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_abdominal_crunch.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step_up_onto_chair.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_step_up_onto_chair.png"
+    },
+    {
+        "merged": "D:\\Udemy\\7MinutesWorkout_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plank.png.flat",
+        "source": "D:\\Udemy\\7MinutesWorkout_v8\\app\\src\\main\\res\\drawable\\ic_plank.png"
+    }
+]
